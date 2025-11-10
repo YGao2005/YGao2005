@@ -1,9 +1,6 @@
 # 💫 About Me:
 
-I LOVE MY GIRLFRIEND ELLIE HUANG GO HIRE HER UI/UX: https://www.linkedin.com/in/elliehuang0814/
-
-I am currently a student at UCLA studying Linguistics and Computer Science and a firm believer in the "I bet I can make an app for that" mentality.<br><br>Throughout my experiences attempting to build elaborate and overdone solutions to my various inconveniences, I've completed successful products and countless more "learning experiences." <br><br>I've learned never to be afraid to delve into the unknown and stay open to any new tools that can help me in my developer journey.<br><br>With each project, I grow more determined to push the boundaries of what's possible through code. I'm eager to take on new challenges and collaborate with like-minded individuals who share my passion for innovation.<br><br>Currently, I am working on an IOS app to help students save money and protect the environment by coordinating rideshares. Contact me, and let's build something amazing together.<br><br>If you're interested in some of the projects I've worked on in the past, check out the pinned repositories below! 
-
+I am currently a junior at UCLA studying Linguistics and Computer Science - 2x intern at Amazon. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yang-gao-65ba61179) 
