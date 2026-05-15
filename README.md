@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I am currently a junior at UCLA studying Linguistics and Computer Science - 2x intern at Amazon. 
+Senior at UCLA studying Linguistics and Computer Science - Prev intern @AWS. 7x hackathon winner. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yang-gao-65ba61179) 
